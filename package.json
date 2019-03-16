@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-issue-1661",
+  "version": "1.0.0",
+  "description": "Reproduction of Jasmine #1661",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmedynski/jasmine-issue-1661.git"
+  },
+  "author": "Paul Medynski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulmedynski/jasmine-issue-1661/issues"
+  },
+  "homepage": "https://github.com/paulmedynski/jasmine-issue-1661#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
